@@ -1,7 +1,7 @@
 # Energy-Efficient Communication Protocol for Wireless Microsensor Networks
 ## This is LEACH protocol implemented by MIT using NS-2, including a few compatibility modifications for ns-2.35.
 
-<font color=blue> We are implementing ns-3 version of LEACH Protocol ... </font>
+<font color=blue> **We are implementing ns-3 version of LEACH Protocol ...** </font>
 
 Wendi Rabiner Heinzelman, Anantha Chandrakasan, and Hari Balakrishnan
 Massachusetts Institute of Technology
