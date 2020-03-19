@@ -92,7 +92,7 @@ WirelessPhy::WirelessPhy() : Phy(), sleep_timer_(this), status_(IDLE)
 	 */
 #ifdef MIT_uAMPS
   alive_ = 1;   	// 0 = dead, 1 = alive
-  bandwidth_ = 1000000;                // 100 Mbps
+  bandwidth_ = 1000000;                // 1 Mbps
   Efriss_amp_ = 100 * 1e-12;           // Friss amp energy (J/bit/m^2)
   Etwo_ray_amp_ = 0.013 * 1e-12;       // Two-ray amp energy (J/bit/m^4)
   EXcvr_ = 50 * 1e-9;                  // Xcvr energy (J/bit)
