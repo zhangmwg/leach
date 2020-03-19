@@ -1,7 +1,6 @@
-# ns2-leach
-
 # Energy-Efficient Communication Protocol for Wireless Microsensor Networks
-## ns-2.35
+## This is LEACH protocol implemented by MIT using NS-2, including a few compatibility modifications for ns-2.35
+
 Wendi Rabiner Heinzelman, Anantha Chandrakasan, and Hari Balakrishnan
 Massachusetts Institute of Technology
 Cambridge, MA 02139
